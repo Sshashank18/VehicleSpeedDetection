@@ -22,9 +22,9 @@ Make sure you have the following installed:
 pip install opencv-python
 pip install cmake            # Required for dlib
 pip install dlib             # You must have CMake and a C++ compiler installed
-
+```
 
 ## Screenshots
 
-<img src="https://github.com/Sshashank18/NetflixClone/blob/main/Screenshots/Screenshot%20(22).png"
+<img src="https://github.com/Sshashank18/VehicleSpeedDetection/blob/master/Screenshots/Screenshot%20(1).png"
      style="float: left; margin-right: 10px;"/>
